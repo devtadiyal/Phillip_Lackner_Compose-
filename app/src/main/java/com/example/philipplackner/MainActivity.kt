@@ -17,7 +17,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             PhilippLacknerTheme {
-               Greeting(name = "Devendra singh tadiyal ji")
+               Greeting(name = "Devendra singh tadiyal ji, How are you?")
             }
         }
     }
