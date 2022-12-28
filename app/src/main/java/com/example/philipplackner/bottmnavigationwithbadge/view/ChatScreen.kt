@@ -11,6 +11,6 @@ import androidx.compose.ui.Modifier
 fun ChatScreen() {
     Box(modifier = Modifier.fillMaxSize(),
     contentAlignment = Alignment.Center) {
-        Text(text = "Chat")
+        Text(text = "Chat Screen")
     }
 }
